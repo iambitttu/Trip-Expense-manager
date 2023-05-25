@@ -1,0 +1,6 @@
+﻿User,Expenses,Amount,Date,Receipt
+A,Travel(A),100,24-05-2023,yes
+B,Accomodation(B),50,24-05-2023,yes
+C,"Food(A, B, C)",30,25-05-2023,no
+D,"Food(D, E)",20,25-05-2023,no
+Total,,200,,
